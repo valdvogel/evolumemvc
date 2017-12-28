@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>eVolume</title>
+    <title>eVolume - Aluguel de acessórios para carros</title>
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;subset=latin-ext" rel="stylesheet">
     
@@ -46,7 +46,7 @@
 					<i class="fa fa-bars"></i>
 				</button>
 				<a href="index.html" class="navbar-brand">
-					<img src="img/logo.jpg" alt="Post" height="130" width="130">
+					<img src="img/logo.png" alt="Post" height="150" width="150">
 				</a>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
@@ -67,8 +67,9 @@
                         <li><a href="#" title="">MENU ITEM</a></li>
                          <li><a href="page.html" title="">Buscar</a></li>
                         -->
+                        <li class="active"><a href="index.html" title="">>> Seja Locador</a></li>
                         <li class="active"><a href="index.html" title="">>> Entrar</a></li>
-                        <li class="active"><a href="index.html" title="">>> Contratar</a></li>
+                        <li class="active"><a href="Locatario" title="">>> Contratar</a></li>
                        
                         <li>
                             <div class="clearfix"></div>
@@ -137,7 +138,7 @@
         </section>
         <section class="services">
             <h2 class="section-title">ACESSÓRIOS</h2>
-            <p class="desc">Os acessórios que voê precisa</p>
+            <p class="desc">Os acessórios que você precisa</p>
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-sm-6 col-xs-12">
